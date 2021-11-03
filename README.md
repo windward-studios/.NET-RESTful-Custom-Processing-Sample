@@ -5,7 +5,10 @@ This is a sample project to see how the custom processing works in the .NET REST
 1. Clone or download this repository
 2. Open the CustomProcessingSample solution in Microsoft Visual Studio
 3. Build the solution
-4. After building the solution navigate to the "obj/Debug" directory for the project, there you will find the "CustomProcessingSample.dll" file
+4. After building the solution navigate to the "obj/Debug" directory for the project, there you will find the "CustomProcessingSample.dll" file. Move this file to your RESTful Engine bin folder:
+```
+C:\inetpub\wwwroot\RESTfulEngine\bin
+```
 5. Copy the path to the file
 6. Next we will add the following to our web.config file for the RESTful engine:
 ```
