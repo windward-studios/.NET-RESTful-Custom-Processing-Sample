@@ -1,0 +1,8 @@
+C:\.NET-RESTful-Custom-Processing-Sample\CustomProcessingSample\obj\Debug\CustomProcessingSample.csproj.AssemblyReference.cache
+C:\.NET-RESTful-Custom-Processing-Sample\CustomProcessingSample\obj\Debug\CustomProcessingSample.csproj.CoreCompileInputs.cache
+C:\.NET-RESTful-Custom-Processing-Sample\CustomProcessingSample\obj\Debug\CustomProcessingSample.dll
+C:\.NET-RESTful-Custom-Processing-Sample\CustomProcessingSample\obj\Debug\CustomProcessingSample.pdb
+C:\.NET-RESTful-Custom-Processing-Sample\CustomProcessingSample\bin\Debug\CustomProcessingSample.dll
+C:\.NET-RESTful-Custom-Processing-Sample\CustomProcessingSample\bin\Debug\CustomProcessingSample.pdb
+C:\.NET-RESTful-Custom-Processing-Sample\CustomProcessingSample\obj\Debug\CustomProcessingSample.csproj.CopyComplete
+C:\.NET-RESTful-Custom-Processing-Sample\CustomProcessingSample\bin\Debug\bin\Debug\WindwardCustomProcessing.dll
