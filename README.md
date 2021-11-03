@@ -13,7 +13,7 @@ C:\inetpub\wwwroot\RESTfulEngine\bin
 6. Next we will add the following to our web.config file for the RESTful engine:
 ```
 <appSettings>
-   <add key="postProcessor" value="PATH_TO_DLL\CustomProcessingSample.dll!CustomProcessingSample.CustomProcessor" />
+   <add key="postProcessor" value="C:\inetpub\wwwroot\RESTfulEngine\bin\CustomProcessingSample.dll!CustomProcessingSample.CustomProcessor" />
 </appSetings>
 ```
 7. Now, start up your RESTful engine and run a report. When you get the report the "Data" will be empty
