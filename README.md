@@ -13,7 +13,7 @@ This is a sample project to see how the custom processing works in the .NET REST
    <add key="postProcessor" value="PATH_TO_DLL\CustomProcessingSample.dll!CustomProcessingSample.CustomProcessor" />
 </appSetings>
 ```
-7. Now, start up your RESTful engine and run a report. When you get the report the "Data" will be null
+7. Now, start up your RESTful engine and run a report. When you get the report the "Data" will be empty
 
 ## Documentation 
 https://ohana.windwardstudios.com/m/79043/l/1453279-net-restful-engine-custom-processing
