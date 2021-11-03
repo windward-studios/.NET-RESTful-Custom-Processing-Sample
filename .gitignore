@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+CustomProcessingSample/.vs/CustomProcessingSample/v16/.suo
+
+CustomProcessingSample/CustomProcessingSample.csproj.user
+
+CustomProcessingSample/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+
+*.cache
+
+*.CopyComplete
+
+CustomProcessingSample/obj/Debug/
