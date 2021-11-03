@@ -23,7 +23,6 @@
 *.lo
 
 # Shared objects (inc. Windows DLLs)
-*.dll
 *.so
 *.so.*
 *.dylib
@@ -61,4 +60,6 @@ CustomProcessingSample/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 
 *.CopyComplete
 
+CustomProcessingSample/obj/Debug/
 
+CustomProcessingSample/bin/Debug/CustomProcessingSample.dll
