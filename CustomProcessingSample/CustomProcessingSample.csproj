@@ -46,14 +46,28 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CustomProcessor.cs" />
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\Debug\CustomProcessingSample.pdb" />
-    <Content Include="bin\Debug\WindwardCustomProcessing.dll" />
+    <Content Include="bin\Debug\WindwardCustomProcessing.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="obj\Debug\CustomProcessingSample.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\CustomProcessingSample.dll" />
+    <Content Include="obj\Debug\CustomProcessingSample.pdb" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\build.force" />
+    <None Include="obj\Debug\CustomProcessingSample.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\CustomProcessingSample.csproj.CopyComplete" />
+    <None Include="obj\Debug\CustomProcessingSample.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
